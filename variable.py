@@ -13,4 +13,4 @@ last_name='shrestha'
 address='Pokhara'
 print('My name is',first_name,last_name,'I live in',address)
 print(f'My name is {first_name} {last_name}. I live in {address}.')
-print('my name is' + first_name+' '+last_name)
+print('my name is'+first_name+' '+last_name)
