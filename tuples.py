@@ -15,3 +15,5 @@ print(fruits.index('apple'))
 print(fruits.count('apple'))
 print(fruits.count('mango'))
 
+
+
