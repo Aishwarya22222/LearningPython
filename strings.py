@@ -29,4 +29,5 @@ lang='python'
 print('we are learning %s.'%lang)
 print('we are here to learn %s at %s'%(lang,'college'))
 
+# this is easy 
 print('we are here to study',lang)
