@@ -1,0 +1,2 @@
+this is the first line added from the write method
+this is the second line
