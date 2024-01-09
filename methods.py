@@ -1,4 +1,4 @@
-# methods are the function defined inside the body of the clss. They are used to perform the operation 
+# methods are the function defined inside the body of the class. They are used to perform the operation 
 # with the attribute of the objects. Methods are the key concept of OOP paradigm and essential for 
 # large application
 
