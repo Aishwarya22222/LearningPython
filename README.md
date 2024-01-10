@@ -1,1 +1,1 @@
-# this is my first project in python.
+# Learning about Python.
